@@ -1,0 +1,330 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Espresso Beverages"
+    },
+    {
+      "id": 2,
+      "nama": "Blended Beverages"
+    },
+    {
+      "id": 3,
+      "nama": "Other Beverage (Non Coffe)"
+    },
+    {
+      "id": 4,
+      "nama": "Core Menu"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "kode": "p2",
+      "nama": "Caramel Frappucino",
+      "harga": 49000,
+      "is_ready": true,
+      "gambar": "Caramel Frappucino.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "p3",
+      "nama": "Signature Chocolate",
+      "harga": "590000",
+      "is_ready": true,
+      "gambar": "Signature Chocolate.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "p4",
+      "nama": "Almond Croissant",
+      "harga": 37000,
+      "is_ready": true,
+      "gambar": "Almond Croissant.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Core Menu"
+      }
+    },
+    {
+      "id": "5",
+      "kode": "p5",
+      "nama": "Cappucino",
+      "harga": 51000,
+      "is_ready": true,
+      "gambar": "Cappucino.jpg",
+      "category": {
+        "id": "1",
+        "nama": "Espresso Beverages"
+      }
+    },
+    {
+      "id": "6",
+      "kode": "p6",
+      "nama": "Caffè Mocha",
+      "harga": 55000,
+      "is_ready": true,
+      "gambar": "Caffè Mocha.jpg",
+      "category": {
+        "id": "1",
+        "nama": "Espresso Beverages"
+      }
+    },
+    {
+      "id": "7",
+      "kode": "p7",
+      "nama": "Cold Foam",
+      "harga": 48000,
+      "is_ready": true,
+      "gambar": "Cold Foam.jpg",
+      "category": {
+        "id": "1",
+        "nama": "Espresso Beverages"
+      }
+    },
+    {
+      "id": "8",
+      "kode": "p8",
+      "nama": "Caffè Americano",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "Caffè Americano.jpg",
+      "category": {
+        "id": "1",
+        "nama": "Espresso Beverages"
+      }
+    },
+    {
+      "id": "9",
+      "kode": "p9",
+      "nama": "Ristretto Bianco",
+      "harga": 34000,
+      "is_ready": true,
+      "gambar": "Ristretto Bianco.jpg",
+      "category": {
+        "id": "1",
+        "nama": "Espresso Beverages"
+      }
+    },
+    {
+      "id": "10",
+      "kode": "p10",
+      "nama": "Mango Passion Frappuccino",
+      "harga": 49000,
+      "is_ready": true,
+      "gambar": "Mango Passion Frappuccino.jpg",
+      "category": {
+        "id": "2",
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": "11",
+      "kode": "p11",
+      "nama": "Raspberry Currant Frappuccino",
+      "harga": 44000,
+      "is_ready": true,
+      "gambar": "Raspberry Currant Frappuccino.jpg",
+      "category": {
+        "id": "2",
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": "12",
+      "kode": "p12",
+      "nama": "Caramel Java Chip Frappuccino",
+      "harga": 62000,
+      "is_ready": true,
+      "gambar": "Caramel Java Chip Frappuccino.jpg",
+      "category": {
+        "id": "2",
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": "13",
+      "kode": "p13",
+      "nama": "Asian Dolce Frappuccino",
+      "harga": 58000,
+      "is_ready": true,
+      "gambar": "Asian Dolce Frappuccino.jpg",
+      "category": {
+        "id": "2",
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": "14",
+      "kode": "p14",
+      "nama": "Mocha Jelly Frappuccino",
+      "harga": 59000,
+      "is_ready": true,
+      "gambar": "Mocha Jelly Frappuccino.jpg",
+      "category": {
+        "id": "2",
+        "nama": "Blended Beverages"
+      }
+    },
+    {
+      "id": "17",
+      "kode": "p17",
+      "nama": "Green Tea Latte",
+      "harga": 53000,
+      "is_ready": true,
+      "gambar": "Green Tea Latte.jpg",
+      "category": {
+        "id": "3",
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": "15",
+      "kode": "p15",
+      "nama": "Earl Grey Tea Latte",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": "Earl Grey Tea Latte.jpg",
+      "category": {
+        "id": "3",
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": "16",
+      "kode": "p16",
+      "nama": "Black Tea Latte",
+      "harga": 44000,
+      "is_ready": true,
+      "gambar": "Black Tea Latte.jpg",
+      "category": {
+        "id": "3",
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": "18",
+      "kode": "p18",
+      "nama": "TEAVANA English Breakfast Hot Tea",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "TEAVANA English Breakfast Hot Tea.jpg",
+      "category": {
+        "id": "3",
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": "19",
+      "kode": "p19",
+      "nama": "TEAVANA Chamomile Hot Tea ",
+      "harga": "190000",
+      "is_ready": true,
+      "gambar": "TEAVANA Chamomile Hot Tea.jpg",
+      "category": {
+        "id": "3",
+        "nama": "Other Beverage (Non Coffe)"
+      }
+    },
+    {
+      "id": "20",
+      "kode": "p20",
+      "nama": "Chocolate Chip Cookies",
+      "harga": 19000,
+      "is_ready": true,
+      "gambar": "Chocolate Chip Cookies.jpg",
+      "category": {
+        "id": "4",
+        "nama": "Core Menu"
+      }
+    },
+    {
+      "id": "21",
+      "kode": "p21",
+      "nama": "Caramel Stroopwafel",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "Caramel Stroopwafel.jpg",
+      "category": {
+        "id": "4",
+        "nama": "Core Menu"
+      }
+    },
+    {
+      "id": "22",
+      "kode": "p22",
+      "nama": "Banana Cake",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "Banana Cake.jpg",
+      "category": {
+        "id": "4",
+        "nama": "Core Menu"
+      }
+    },
+    {
+      "id": "23",
+      "kode": "p23",
+      "nama": "Raisin Oatmeal Cookies",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "Raisin Oatmeal Cookies.jpg",
+      "category": {
+        "id": "4",
+        "nama": "Core Menu"
+      }
+    },
+    {
+      "id": "24",
+      "kode": "p24",
+      "nama": "Chocolate Stroopwafel",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "Chocolate Stroopwafel.jpg",
+      "category": {
+        "id": "4",
+        "nama": "Core Menu"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "total_bayar": 49000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 49000,
+          "product": {
+            "id": 2,
+            "kode": "p2",
+            "nama": "Caramel Frappucino",
+            "harga": 49000,
+            "is_ready": true,
+            "gambar": "Caramel Frappucino.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Blended Beverages"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "user": [
+    {
+      "id": "nicko",
+      "password": "admin"
+    }
+  ]
+}
